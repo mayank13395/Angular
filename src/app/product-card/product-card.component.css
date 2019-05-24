@@ -1,0 +1,23 @@
+
+.card {
+  
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 2px;
+}
+
+.card-img-top {
+   
+    height: 300px;
+    
+}
+
+.card-footer {
+    padding: 0;
+}
+.card-footer button{
+    cursor: pointer;
+} 
+.btn{
+    background-color: rgb(218, 79, 15);
+}
